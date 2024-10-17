@@ -1,0 +1,11 @@
+<section class="section">
+  <ul *ngIf="products.length > 0; else noResults" class="container product-list">
+    <li *ngFor="let product of products">
+      <app-product-card [product]="product"></app-product-card>
+    </li>
+  </ul>
+
+  <ng-template #noResults>
+    <p class="container">No results found</p>
+  </ng-template>
+</section>

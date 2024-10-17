@@ -1,0 +1,108 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Succulent",
+      "price": 10,
+      "description": "A small plant that requires little water.",
+      "stock": 10,
+      "imageUrl": "/assets/images/plant-2.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Snake Plant",
+      "price": 15,
+      "description": "A tall plant that requires little light.",
+      "stock": 5,
+      "imageUrl": "/assets/images/plant-3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Fiddle Leaf Fig",
+      "price": 20,
+      "description": "A large plant that requires lots of light.",
+      "stock": 3,
+      "imageUrl": "/assets/images/plant-1.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Monstera",
+      "price": 25,
+      "description": "A large plant that requires lots of light.",
+      "stock": 2,
+      "imageUrl": "/assets/images/plant-4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Rubber Plant",
+      "price": 30,
+      "description": "A large plant that requires little light.",
+      "stock": 1,
+      "imageUrl": "/assets/images/plant-1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Pothos",
+      "price": 35,
+      "description": "A small plant that requires little light.",
+      "stock": 0,
+      "imageUrl": "/assets/images/plant-3.jpg"
+    },
+    {
+      "id": 7,
+      "name": "ZZ Plant",
+      "price": 40,
+      "description": "A small plant that requires little light.",
+      "stock": 0,
+      "imageUrl": "/assets/images/plant-2.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Aloe Vera",
+      "price": 45,
+      "description": "A small plant that requires little water.",
+      "stock": 0,
+      "imageUrl": "/assets/images/plant-4.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Spider Plant",
+      "price": 50,
+      "description": "A small plant that requires little light.",
+      "stock": 0,
+      "imageUrl": "/assets/images/plant-1.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Peace Lily",
+      "price": 55,
+      "description": "A small plant that requires little light.",
+      "stock": 0,
+      "imageUrl": "/assets/images/plant-2.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Calathea",
+      "price": 60,
+      "description": "A small plant that requires little light.",
+      "stock": 0,
+      "imageUrl": "/assets/images/plant-4.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Philodendron",
+      "price": 65,
+      "description": "A small plant that requires little light.",
+      "stock": 0,
+      "imageUrl": "/assets/images/plant-3.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Bird of Paradise",
+      "price": 70,
+      "description": "A small plant that requires little light.",
+      "stock": 0,
+      "imageUrl": "/assets/images/plant-4.jpg"
+    }
+  ]
+}

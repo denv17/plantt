@@ -1,0 +1,7 @@
+.logo {
+  align-items: center;
+  display: flex;
+  font-size: 1.5rem;
+  gap: 0.5rem;
+  line-height: 1;
+}

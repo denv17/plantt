@@ -1,0 +1,12 @@
+.search-form {
+  display: flex;
+  align-items: center;
+  background-color: var(--background-white);
+  border-radius: 1rem;
+  padding: 1rem;
+
+  & input {
+    width: 100%;
+    outline: none;
+  }
+}

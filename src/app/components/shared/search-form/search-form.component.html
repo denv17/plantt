@@ -1,0 +1,8 @@
+<section class="section">
+  <div class="container ">
+    <form class="search-form" (submit)="onSubmit($event, filter.value)">
+      <input type="text" placeholder="Fin your perfect plant" #filter>
+      <app-button type="submit" label="Search"></app-button>
+    </form>
+  </div>
+</section>

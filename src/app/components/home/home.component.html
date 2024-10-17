@@ -1,0 +1,7 @@
+<app-hero></app-hero>
+
+<div class="main-content">
+  <app-search-form (searchEvent)="filterProducts($event)"></app-search-form>
+
+  <app-products-list [products]="filteredProducts"></app-products-list>
+</div>

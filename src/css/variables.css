@@ -1,0 +1,20 @@
+:root {
+  --green-light: #e6f7db;
+  --green-medium: #78e08f;
+  --green-dark: #38ada9;
+  --green-forest: #218c74;
+  --green-deep: #006442;
+
+  --gray-dark: #333333;
+  --gray-medium: #4f4f4f;
+  --gray-light: #828282;
+  --gray-lighter: #bdbdbd;
+
+  --background-white: #ffffff;
+  --background-light: #f1f2f6;
+  --background-dark: #2f3640;
+  --accent-light: #dff9fb;
+  --accent-dark: #353b48;
+
+  --font-primary: "Poppins", sans-serif;
+}

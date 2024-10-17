@@ -1,0 +1,7 @@
+<a *ngIf="routerLink" routerLink="routerLink" class="button">
+  {{ label }}
+</a>
+
+<button *ngIf="!routerLink" [type]="type" class="button">
+  {{ label }}
+</button>
